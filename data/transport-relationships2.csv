@@ -1,0 +1,16 @@
+:START_ID,:END_ID,cost,:TYPE
+Amsterdam,Utrecht,46,EROAD
+Amsterdam,Den Haag,59,EROAD
+Den Haag,Rotterdam,26,EROAD
+Amsterdam,Immingham,369,EROAD
+Immingham,Doncaster,74,EROAD
+Doncaster,London,277,EROAD
+Hoek van Holland,Den Haag,27,EROAD
+Felixstowe,Hoek van Holland,207,EROAD
+Ipswich,Felixstowe,22,EROAD
+Colchester,Ipswich,32,EROAD
+London,Colchester,106,EROAD
+Gouda,Rotterdam,25,EROAD
+Gouda,Utrecht,35,EROAD
+Den Haag,Gouda,32,EROAD
+Hoek van Holland,Rotterdam,33,EROAD
